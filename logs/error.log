@@ -1,0 +1,27 @@
+[2025-09-30T00:11:28.561Z] Erro ao inserir evento: Campos obrigatórios ausentes: titulo, data, horario.
+[2025-09-30T00:11:28.594Z] Erro ao deletar evento: Título é obrigatório para deletar.
+[2025-10-01T00:52:44.292Z] [ERROR] Erro ao criar evento: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+[2025-10-01T01:04:18.944Z] [ERROR] Erro ao criar evento: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+[2025-10-01T01:06:21.075Z] [ERROR] Erro ao criar evento: ID de calendário inválido: 23
+[2025-10-01T01:22:05.206Z] [ERROR] Erro ao criar usuário: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+[2025-10-01T01:22:26.076Z] [ERROR] Erro ao criar usuário: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+[2025-10-01T01:22:56.911Z] [ERROR] Erro ao criar usuário: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+[2025-10-02T00:27:23.508Z] [ERROR] Campos obrigatórios ausentes: title, date, time, calendarId
+[2025-10-02T00:53:21.922Z] [ERROR] O nome deve conter apenas letras e espaços.
+[2025-10-02T01:05:24.036Z] [ERROR] Event.updateByTitle is not a function
+[2025-10-02T01:09:33.057Z] [ERROR] ID de usuário inválido
+[2025-10-02T01:10:09.727Z] [ERROR] ID de usuário inválido
+[2025-10-02T01:10:43.600Z] [ERROR] ID de usuário inválido
+[2025-10-02T01:10:52.808Z] [ERROR] ID de usuário inválido
+[2025-10-02T01:11:06.050Z] [ERROR] ID de usuário inválido
+[2025-10-02T01:15:19.774Z] [ERROR] ID de usuário inválido
+[2025-10-02T01:15:38.970Z] [ERROR] ID fornecido inválido. Deve ser um ObjectId válido.
+[2025-10-02T01:15:58.013Z] [ERROR] ID fornecido inválido. Deve ser um ObjectId válido.
+[2025-10-02T01:22:52.840Z] [ERROR] ID de calendário inválido
+[2025-10-02T01:27:16.146Z] [ERROR] ID de calendário inválido
+[2025-10-02T01:30:44.309Z] [ERROR] Data inválida. Use o formato YYYY-MM-DD
+[2025-10-02T01:31:14.761Z] [ERROR] Data inválida. Use o formato YYYY-MM-DD
+[2025-10-02T01:34:46.290Z] [ERROR] Data inválida. Use o formato DD/MM/YYYY
+[2025-10-02T01:35:32.296Z] [ERROR] Hora inválida. Use o formato HH:MM
+[2025-10-03T01:42:28.213Z] [ERROR] Email inválido
+

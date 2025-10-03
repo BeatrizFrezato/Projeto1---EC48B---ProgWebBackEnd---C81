@@ -1,0 +1,160 @@
+[2025-09-30T00:24:25.269Z] [INFO] Conexão com MongoDB estabelecida.
+[2025-09-30T00:24:49.081Z] [INFO] Evento inserido: reuniao com otavio
+[2025-09-30T00:25:20.317Z] [INFO] Evento inserido: reuniao de equipe
+[2025-09-30T00:25:22.959Z] [INFO] Listagem de eventos (3 encontrados)
+[2025-09-30T00:25:45.397Z] [INFO] Evento encontrado: reuniao de equipe
+[2025-09-30T00:25:56.596Z] [INFO] Tentativa de deletar evento não existente: reunião de equipe
+[2025-09-30T00:26:13.911Z] [INFO] Conexão com MongoDB encerrada.
+[2025-09-30T01:31:36.035Z] [INFO] Conectado ao MongoDB!
+[2025-09-30T01:31:51.432Z] [INFO] Listagem de usuários
+[2025-09-30T01:32:12.098Z] [INFO] Listagem de calendários
+[2025-09-30T01:32:29.088Z] [INFO] Listagem de eventos
+[2025-09-30T01:32:33.598Z] [INFO] Saindo do sistema...
+[2025-09-30T01:41:48.846Z] [INFO] Conectado ao MongoDB!
+[2025-09-30T01:42:04.063Z] [INFO] Usuário criado: otavio
+[2025-09-30T01:42:15.235Z] [INFO] Listagem de usuários
+[2025-09-30T01:42:48.404Z] [INFO] Calendário criado: calendario da bia
+[2025-09-30T01:42:53.097Z] [INFO] Listagem de calendários
+[2025-09-30T01:43:32.743Z] [INFO] Evento criado: reunião de equipe
+[2025-09-30T01:43:40.013Z] [INFO] Listagem de eventos
+[2025-09-30T01:45:10.358Z] [INFO] Busca de evento: reunião de equipe
+[2025-09-30T01:46:20.960Z] [INFO] Listagem de eventos
+[2025-09-30T01:46:25.400Z] [INFO] Saindo do sistema...
+[2025-09-30T01:51:15.284Z] [INFO] Conectado ao MongoDB!
+[2025-09-30T01:51:35.946Z] [INFO] Listagem de usuários
+[2025-09-30T01:51:44.000Z] [INFO] Listagem de calendários
+[2025-09-30T01:51:54.736Z] [INFO] Listagem de eventos
+[2025-09-30T01:52:28.724Z] [INFO] Evento criado: reunião em 23-08-2003 15:00, local: andira
+[2025-09-30T01:52:34.363Z] [INFO] Listagem de eventos
+[2025-09-30T01:52:52.759Z] [INFO] Evento deletado: reunião de equipe
+[2025-09-30T01:52:55.556Z] [INFO] Listagem de eventos
+[2025-09-30T01:53:07.666Z] [INFO] Busca de evento: reunião
+[2025-09-30T01:53:28.806Z] [INFO] Calendário criado: calendario do otavio
+[2025-09-30T01:53:32.895Z] [INFO] Listagem de calendários
+[2025-09-30T01:53:37.972Z] [INFO] Saindo do sistema...
+[2025-10-01T00:45:12.391Z] [INFO] Conectado ao MongoDB!
+[2025-10-01T00:45:25.296Z] [INFO] Listagem de usuários
+[2025-10-01T00:47:10.884Z] [INFO] Evento criado: reunião com José em 05-10-2025 13:00, local: cornélio
+[2025-10-01T00:47:34.966Z] [INFO] Evento criado: nbvc em 23-23-02223 23:00, local: cp
+[2025-10-01T00:47:45.262Z] [INFO] Listagem de usuários
+[2025-10-01T00:47:48.624Z] [INFO] Listagem de calendários
+[2025-10-01T00:47:59.063Z] [INFO] Listagem de eventos
+[2025-10-01T00:50:44.146Z] [INFO] Saindo do sistema...
+[2025-10-01T00:50:48.732Z] [INFO] Conectado ao MongoDB!
+[2025-10-01T00:51:48.393Z] [INFO] Evento deletado: nbvc
+[2025-10-01T00:51:56.649Z] [INFO] Listagem de usuários
+[2025-10-01T00:52:08.572Z] [INFO] Listagem de calendários
+[2025-10-01T00:52:12.931Z] [INFO] Listagem de eventos
+[2025-10-01T00:53:08.278Z] [INFO] Saindo do sistema...
+[2025-10-01T01:03:17.021Z] [INFO] Conectado ao MongoDB
+[2025-10-01T01:03:23.029Z] [INFO] Listagem de usuários
+[2025-10-01T01:03:27.221Z] [INFO] Listagem de calendários
+[2025-10-01T01:05:25.382Z] [INFO] Saindo do sistema...
+[2025-10-01T01:05:44.396Z] [INFO] Conectado ao MongoDB
+[2025-10-01T01:06:30.590Z] [INFO] Listagem de calendários
+[2025-10-01T01:17:00.582Z] [INFO] Saindo do sistema...
+[2025-10-01T01:17:06.320Z] [INFO] Conectado ao MongoDB!
+[2025-10-01T01:17:12.500Z] [INFO] Listagem de usuários
+[2025-10-01T01:17:27.844Z] [INFO] Usuário criado: jose (id: 68dc81270c9eef21fc585ce9)
+[2025-10-01T01:19:52.289Z] [INFO] Saindo do sistema...
+[2025-10-01T01:21:50.325Z] [INFO] Conectado ao MongoDB!
+[2025-10-01T01:23:47.560Z] [INFO] Saindo do sistema...
+[2025-10-01T01:37:10.013Z] [INFO] Conectado ao MongoDB!
+[2025-10-01T01:37:46.546Z] [INFO] Usuário criado: teste
+[2025-10-01T01:38:12.586Z] [INFO] Calendário criado: calendario teste
+[2025-10-01T01:38:20.178Z] [INFO] Listagem de calendários
+[2025-10-01T01:38:52.461Z] [INFO] Evento criado: reuniao em 23-06-2026 23:00, local: cp
+[2025-10-01T01:39:15.006Z] [INFO] Evento criado: lll em 23-02-2026 23:00, local: mg
+[2025-10-01T01:39:20.818Z] [INFO] Listagem de eventos
+[2025-10-01T01:39:41.183Z] [INFO] Listagem de calendários
+[2025-10-01T01:40:30.292Z] [INFO] Saindo do sistema...
+[2025-10-01T01:40:37.209Z] [INFO] Conectado ao MongoDB!
+[2025-10-01T01:40:42.804Z] [INFO] Saindo do sistema...
+[2025-10-01T23:54:37.980Z] [INFO] Conectado ao MongoDB!
+[2025-10-01T23:54:46.268Z] [INFO] Listagem de usuários
+[2025-10-02T00:03:53.446Z] [INFO] Listagem de calendários
+[2025-10-02T00:04:07.615Z] [INFO] Busca de evento: calendario teste
+[2025-10-02T00:10:33.032Z] [INFO] Saindo do sistema...
+[2025-10-02T00:14:44.810Z] [INFO] Conectado ao MongoDB!
+[2025-10-02T00:16:10.871Z] [INFO] Calendário deletado: calendario teste
+[2025-10-02T00:16:18.371Z] [INFO] Listagem de eventos
+[2025-10-02T00:16:52.369Z] [INFO] Evento deletado: lll
+[2025-10-02T00:16:56.626Z] [INFO] Listagem de eventos
+[2025-10-02T00:17:21.541Z] [INFO] Listagem de usuários
+[2025-10-02T00:17:50.294Z] [INFO] Usuário deletado: teste
+[2025-10-02T00:18:01.621Z] [INFO] Listagem de usuários
+[2025-10-02T00:18:20.846Z] [INFO] Listagem de calendários
+[2025-10-02T00:18:56.735Z] [INFO] Saindo do sistema...
+[2025-10-02T00:25:00.806Z] [INFO] Conectado ao MongoDB!
+[2025-10-02T00:25:07.364Z] [INFO] Usuário criado: 23
+[2025-10-02T00:25:27.968Z] [INFO] Usuário não encontrado: 12
+[2025-10-02T00:26:27.044Z] [INFO] Usuário deletado: 23
+[2025-10-02T00:26:49.940Z] [INFO] Busca de usuário: 20
+[2025-10-02T00:27:50.421Z] [INFO] Saindo do sistema...
+[2025-10-02T00:53:12.310Z] [INFO] Conectado ao MongoDB!
+[2025-10-02T00:53:37.356Z] [INFO] Saindo do sistema...
+[2025-10-02T01:03:57.588Z] [INFO] Conectado ao MongoDB!
+[2025-10-02T01:04:24.871Z] [INFO] Listagem de eventos
+[2025-10-02T01:04:53.059Z] [INFO] Evento deletado: reuniao
+[2025-10-02T01:07:09.314Z] [INFO] Saindo do sistema...
+[2025-10-02T01:07:53.980Z] [INFO] Conectado ao MongoDB!
+[2025-10-02T01:08:10.122Z] [INFO] Usuário criado: bia
+[2025-10-02T01:08:22.265Z] [INFO] Listagem de usuários
+[2025-10-02T01:08:41.091Z] [INFO] Usuário atualizado: bia
+[2025-10-02T01:08:47.199Z] [INFO] Listagem de usuários
+[2025-10-02T01:09:03.918Z] [INFO] Usuário deletado: bia
+[2025-10-02T01:09:41.404Z] [INFO] Listagem de calendários
+[2025-10-02T01:10:16.772Z] [INFO] Listagem de usuários
+[2025-10-02T01:12:59.650Z] [INFO] Saindo do sistema...
+[2025-10-02T01:15:05.213Z] [INFO] Conectado ao MongoDB!
+[2025-10-02T01:17:44.248Z] [INFO] Saindo do sistema...
+[2025-10-02T01:18:53.685Z] [INFO] Conectado ao MongoDB!
+[2025-10-02T01:19:07.082Z] [INFO] Usuário criado: bea
+[2025-10-02T01:19:14.306Z] [INFO] Listagem de usuários
+[2025-10-02T01:19:41.463Z] [INFO] Calendário criado: calendario bea
+[2025-10-02T01:19:48.527Z] [INFO] Listagem de calendários
+[2025-10-02T01:20:22.243Z] [INFO] Calendário atualizado: calendario bea
+[2025-10-02T01:20:32.282Z] [INFO] Listagem de calendários
+[2025-10-02T01:20:55.310Z] [INFO] Calendário deletado: caelndario teste
+[2025-10-02T01:21:14.698Z] [INFO] Usuário deletado: bea
+[2025-10-02T01:21:22.366Z] [INFO] Usuário não encontrado: beatriz
+[2025-10-02T01:21:30.521Z] [INFO] Usuário deletado: Beatriz
+[2025-10-02T01:21:40.866Z] [INFO] Usuário deletado: jose
+[2025-10-02T01:21:47.722Z] [INFO] Usuário deletado: otavio
+[2025-10-02T01:21:57.338Z] [INFO] Listagem de calendários
+[2025-10-02T01:22:14.978Z] [INFO] Calendário deletado: calendario da bia
+[2025-10-02T01:22:29.780Z] [INFO] Calendário deletado: calendario do otavio
+[2025-10-02T01:23:03.780Z] [INFO] Listagem de eventos
+[2025-10-02T01:23:26.634Z] [INFO] Evento atualizado: reunião com José
+[2025-10-02T01:23:37.926Z] [INFO] Evento deletado: reunião com José
+[2025-10-02T01:23:46.577Z] [INFO] Evento deletado: reunião
+[2025-10-02T01:23:49.921Z] [INFO] Listagem de eventos
+[2025-10-02T01:23:55.116Z] [INFO] Listagem de calendários
+[2025-10-02T01:23:59.081Z] [INFO] Listagem de usuários
+[2025-10-02T01:24:33.567Z] [INFO] Usuário criado: usuario teste
+[2025-10-02T01:24:38.000Z] [INFO] Listagem de usuários
+[2025-10-02T01:25:03.021Z] [INFO] Usuário não encontrado: Usuário teste
+[2025-10-02T01:25:36.693Z] [INFO] Usuário atualizado: usuario teste
+[2025-10-02T01:25:55.155Z] [INFO] Calendário criado: teste calendario
+[2025-10-02T01:26:01.710Z] [INFO] Listagem de calendários
+[2025-10-02T01:26:31.298Z] [INFO] Calendário atualizado: teste calendario
+[2025-10-02T01:26:39.426Z] [INFO] Listagem de calendários
+[2025-10-02T01:29:03.126Z] [INFO] Saindo do sistema...
+[2025-10-02T01:29:57.101Z] [INFO] Conectado ao MongoDB!
+[2025-10-02T01:29:59.636Z] [INFO] Listagem de usuários
+[2025-10-02T01:30:04.537Z] [INFO] Listagem de calendários
+[2025-10-02T01:30:11.089Z] [INFO] Listagem de eventos
+[2025-10-02T01:31:58.267Z] [INFO] Evento criado: reuniao de projeto
+[2025-10-02T01:32:05.850Z] [INFO] Listagem de eventos
+[2025-10-02T01:32:21.389Z] [INFO] Saindo do sistema...
+[2025-10-02T01:34:17.122Z] [INFO] Conectado ao MongoDB!
+[2025-10-02T01:34:21.000Z] [INFO] Listagem de eventos
+[2025-10-02T01:35:59.597Z] [INFO] Evento criado: teste
+[2025-10-02T01:36:12.674Z] [INFO] Evento atualizado: teste
+[2025-10-02T01:36:18.340Z] [INFO] Listagem de eventos
+[2025-10-02T01:36:51.002Z] [INFO] Evento deletado: reuniao de projeto
+[2025-10-02T01:36:59.087Z] [INFO] Saindo do sistema...
+[2025-10-03T01:42:12.357Z] [INFO] Conectado ao MongoDB!
+[2025-10-03T01:42:44.030Z] [INFO] Usuário criado: bea
+[2025-10-03T01:42:50.322Z] [INFO] Usuário deletado: bea
+[2025-10-03T01:42:53.665Z] [INFO] Saindo do sistema...
