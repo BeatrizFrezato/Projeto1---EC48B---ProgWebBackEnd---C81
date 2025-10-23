@@ -158,3 +158,11 @@
 [2025-10-03T01:42:44.030Z] [INFO] Usuário criado: bea
 [2025-10-03T01:42:50.322Z] [INFO] Usuário deletado: bea
 [2025-10-03T01:42:53.665Z] [INFO] Saindo do sistema...
+[2025-10-03T01:53:20.000Z] [INFO] Conectado ao MongoDB!
+[2025-10-03T01:54:23.854Z] [INFO] Listagem de eventos
+[2025-10-03T01:54:33.625Z] [INFO] Saindo do sistema...
+[2025-10-23T19:15:53.732Z] [INFO] Conectado ao MongoDB!
+[2025-10-23T19:16:16.737Z] [INFO] Usuário criado: teste
+[2025-10-23T19:16:23.846Z] [INFO] Listagem de usuários
+[2025-10-23T19:16:44.010Z] [INFO] Usuário não encontrado: xx
+[2025-10-23T19:16:47.299Z] [INFO] Saindo do sistema...

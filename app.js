@@ -2,9 +2,9 @@ const { MongoClient } = require("mongodb");
 const readline = require("readline");
 const Logger = require("./logger");
 
-const User = require("./entities/User");
-const Calendar = require("./entities/Calendar");
-const Event = require("./entities/Event");
+const User = require("./User");
+const Calendar = require("./Calendar");
+const Event = require("./Event");
 
 // Tratamento global de erros
 process.on('unhandledRejection', (reason) => {

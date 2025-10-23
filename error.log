@@ -25,3 +25,13 @@
 [2025-10-02T01:35:32.296Z] [ERROR] Hora inválida. Use o formato HH:MM
 [2025-10-03T01:42:28.213Z] [ERROR] Email inválido
 
+[2025-10-03T01:53:36.901Z] [ERROR] Email inválido
+
+[2025-10-03T01:53:56.894Z] [ERROR] E11000 duplicate key error collection: agendaDB.users index: email_1 dup key: { email: "teste@hotmail.com" }
+MongoServerError: E11000 duplicate key error collection: agendaDB.users index: email_1 dup key: { email: "teste@hotmail.com" }
+    at InsertOneOperation.handleOk (C:\Users\beatr\Downloads\agendaEletronica\node_modules\mongodb\lib\operations\insert.js:51:19)
+    at tryOperation (C:\Users\beatr\Downloads\agendaEletronica\node_modules\mongodb\lib\operations\execute_operation.js:214:34)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async executeOperation (C:\Users\beatr\Downloads\agendaEletronica\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async Collection.insertOne (C:\Users\beatr\Downloads\agendaEletronica\node_modules\mongodb\lib\collection.js:154:16)
+    at async C:\Users\beatr\Downloads\agendaEletronica\app.js:111:13
